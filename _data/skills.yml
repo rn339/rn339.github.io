@@ -9,7 +9,7 @@ languages:
   - item: Java
   - item: C++
 
-frameworks:
+courses:
   - item: Ember & Glimmer
   - item: React
   - item: Jekyll
