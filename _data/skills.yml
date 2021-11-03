@@ -2,6 +2,21 @@ languages:
   - item: C++
   - item: MATLAB
 
+technologies:
+  - item: MS Office Suite
+  - item: Google Suite
+  - item: SAP
+  - item: Minitab
+  - item: IBM SPSS Modeler
+  - item: Visual Studio 2019
+  
+
+organizations:
+  - item: Omega Chi Epsilon
+  - item: Tau Beta Pi
+  - item: AIChE
+  - item: Psi Upsilon
+
 courses:
   - item: Heat & Mass Transfer
   - item: Fluid Flow
@@ -11,17 +26,3 @@ courses:
   - item: Differential Equations
   - item: Organic Chemistry & Lab
   - item: Physical Chemistry & Lab
-
-technologies:
-  - item: MS Office Suite
-  - item: Google Suite
-  - item: SAP
-  - item: Minitab
-  - item: IBM SPSS Modeler
-  - item: Visual Studio 2019
-
-organizations:
-  - item: Omega Chi Epsilon
-  - item: Tau Beta Pi
-  - item: AIChE
-  - item: Psi Upsilon
