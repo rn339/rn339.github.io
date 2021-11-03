@@ -12,14 +12,6 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Courses</div>
-        <ul>
-          {% for course in site.data.skills.courses %}
-          <li class="skillz__category__item">{{course.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="skillz__category">
         <div class="skillz__category__label">Technologies</div>
         <ul>
           {% for technology in site.data.skills.technologies %}
@@ -32,6 +24,14 @@
         <ul>
           {% for organization in site.data.skills.organizations %}
           <li class="skillz__category__item">{{organization.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Courses</div>
+        <ul>
+          {% for course in site.data.skills.courses %}
+          <li class="skillz__category__item">{{course.item}}</li>
           {% endfor %}
         </ul>
       </div>
