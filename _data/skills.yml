@@ -1,35 +1,27 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
-  - item: Java
   - item: C++
+  - item: MATLAB
 
 courses:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Heat & Mass Transfer
+  - item: Fluid Flow
+  - item: Thermodynamics for Chem Eng
+  - item: Chemical Process Calculations
+  - item: Structures of Materials
+  - item: Differential Equations
+  - item: Organic Chemistry & Lab
+  - item: Physical Chemistry & Lab
 
 technologies:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: MS Office Suite
+  - item: Google Suite
+  - item: SAP
+  - item: Minitab
+  - item: IBM SPSS Modeler
+  - item: Visual Studio 2019
 
 organizations:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Omega Chi Epsilon
+  - item: Tau Beta Pi
+  - item: AIChE
+  - item: Psi Upsilon
