@@ -6,6 +6,7 @@ languages:
   - item: Python
   - item: SQL
   - item: R
+  - item: Java
 
 frameworks:
   - item: Ember & Glimmer
