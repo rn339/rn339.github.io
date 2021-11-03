@@ -7,6 +7,7 @@ languages:
   - item: SQL
   - item: R
   - item: Java
+  - item: C++
 
 frameworks:
   - item: Ember & Glimmer
